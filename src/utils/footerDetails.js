@@ -6,9 +6,9 @@ import {ABOUT_PATH, HOME_PATH, LOGIN_PATH, OUR_PRODUCTS_PATH, SIGNUP_PATH} from 
 
 export const socialMediaItems = [
     {pathname : "https://web.facebook.com/mostafa.dabah.9/?_rdc=1&_rdr" , icon: <FacebookIcon/>},
-    {pathname : "https://twitter.com/MustafaDabah" , icon: <TwitterIcon/>},
-    {pathname : "https://www.linkedin.com/in/mustafa-dabah-ab58661a3/" , icon: <LinkedInIcon/>},
-    {pathname : "https://github.com/mustafaDabah" , icon: <GitHubIcon/>},
+    {pathname : "https://twitter.com/kundan" , icon: <TwitterIcon/>},
+    {pathname : "https://www.linkedin.com/in/kundan7735/" , icon: <LinkedInIcon/>},
+    {pathname : "https://github.com/infinitecoder" , icon: <GitHubIcon/>},
 ]
 
 export const itemsLink = [
